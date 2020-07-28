@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"sudip1911",
+        "MONGO_PASSWORD":"sudip1911",
+        "MONGO_DEFAULT_DATABASE":"shop",
+        "STRIPE_KEY":"sk_test_51GxfauGy8vgJmXzuctQeVSOoV2MpBRCK8Rjdyj6v1Yw1qHoxo1Cq3yNUZpXSk0H9YaVBTSUSKVUQARfhPoQpLL2K000UUtMQIz"
+    }
+}
